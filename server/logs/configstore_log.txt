@@ -1,0 +1,6 @@
+
+
+[2022-11-05 22:58:12] Failed to read store 'install' from 'C:\Users\Velar\Desktop\GitHub\ark-server\server\config\config.vdf.tmp'
+[2022-11-05 22:58:12] Failed to read store 'install' from 'C:\Users\Velar\Desktop\GitHub\ark-server\server\config\config.vdf.tmp'
+[2022-11-05 22:58:12] Failed to read store 'install' from 'C:\Users\Velar\Desktop\GitHub\ark-server\server\config\config.vdf.tmp'
+[2022-11-05 22:58:12] Flushed store 'install' to 'C:\Users\Velar\Desktop\GitHub\ark-server\server\config\config.vdf'
